@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Actividad7</string>
+    <string name="CodHin">Codigo</string>
+    <string name="NomHint">Nombre</string>
+    <string name="StockHint">Stock</string>
+    <string name="PreHint">Precio</string>
+    <string name="BtnGuardar">Guardar</string>
+    <string name="BtnBuscar">Buscar</string>
+    <string name="BtnEliminar">Eliminar</string>
+    <string name="BtnModificar">Modificar</string>
+    <string name="BtnInformacion">Informacion</string>
+    <string name="fechaHint">Fecha</string>
+    <string name="seleccionarfecha">Seleccionar Fecha</string>
+</resources>
